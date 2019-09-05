@@ -5,7 +5,7 @@ div
       br
       NavButton(text="カレンダー" fontSize="25px" iconColor="#508fd6" icon="calendar" routerName="calendar")
       NavButton(text="スケジュール" fontSize="25px" iconColor="#d65050" icon="clock" )
-      NavButton(text="記錄リスト" fontSize="25px" iconColor="#50d671" icon="view-list"  routerName="TestPage")
+      NavButton(text="Test" fontSize="25px" iconColor="#50d671" icon="view-list"  routerName="TestPage")
     .side-container(:style="{left:sideNavWidth}")
       .side-bar(@click="sideBarToggle()")
         #icon-bar
