@@ -57,7 +57,6 @@ b-icon {
 }
 
 .button-style {
-  /* width: 100%; */
   height: 50px;
   width: 200px;
   background-color: #0f0f0f;
